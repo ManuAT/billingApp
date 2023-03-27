@@ -10,7 +10,7 @@ var methodOverride = require('method-override');
 var cors = require('cors');
 // configuration ===============================================================
 
-mongoose.connect('mongodb+srv://manu:cat007@@cluster0-axhr4.mongodb.net/', {dbName: 'foodapp'});
+mongoose.connect('mongodb+srv://manu:Y8B4MruGKzc93yPm@cluster0-axhr4.mongodb.net/', {dbName: 'foodapp'});
 
 
 
